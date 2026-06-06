@@ -2,7 +2,9 @@
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard screenshot.png")
+## Dashboard Preview
+
+![Dashboard](Dashboard%20screenshot.png)
 
 ---
 
